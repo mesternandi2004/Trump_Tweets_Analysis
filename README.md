@@ -56,11 +56,6 @@ Produce publication-quality analysis suitable for academic citation
 Data Source Discovery
 I located a comprehensive dataset containing Trump's complete Twitter archive through multiple sources:
 Primary Source: Trump Twitter Archive (thetrumparchive.com)
-Alternative Sources:
-
-GitHub: MarkHershey/CompleteTrumpTweetsArchive
-Harvard Dataverse: Trump Tweet Dataset (2009-2019)
-Kaggle: Trump Twitter Archive
 
 Dataset Characteristics
 Initial Dataset:
