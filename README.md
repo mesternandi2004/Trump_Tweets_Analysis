@@ -9,8 +9,8 @@
 This project applies the **CRISP-DM** (Cross-Industry Standard Process for Data Mining) methodology to analyze populist discourse patterns in Donald Trump's Twitter communication from 2009 to 2021. We use unsupervised machine learning techniques to automatically discover semantic categories in **50,000+ tweets** without predefined labels, providing an objective analysis of political rhetoric on social media.
 
 * **Author:** Created for bachelor's thesis research on political communication
-* **Duration:** December 2024
-* **Status:** Complete
+* **Duration:** December 202
+* **Status:** In progress
 
 ### ✅ Success Criteria
 
