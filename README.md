@@ -45,6 +45,10 @@ The comprehensive dataset of Trump's Twitter archive was sourced primarily from 
 * **Total Initial Records:** 57,331 tweets
 * **Date Range:** 2009-05-04 to 2021-01-08 (account suspension)
 
+#### Dataset Culomns
+* <img width="481" height="25" alt="kép" src="https://github.com/user-attachments/assets/3a6a0723-99a2-40e5-8051-f00303c90b5a" />
+* Key Columns: The dataset includes text, date, device, and engagement metrics like favorites and retweets.
+
 #### Initial Data Quality Assessment (Identified Issues)
 * Encoding Problems (e.g., UTF-8 corruption).
 * 22% of records were Retweets (excluded from core content analysis).
