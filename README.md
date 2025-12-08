@@ -105,13 +105,31 @@ The data cleaning pipeline was the most time-intensive component.
 
 ### 5. 📈 Results & Academic Contributions
 
-#### Key Findings
-| Research Question | Key Finding |
-| :--- | :--- |
-| **RQ1 (Frequency)** | Top 3 words: *america* (4,523), *great* (3,891), *people* (3,654). Strong emphasis on national identity and "people" framing. |
-| **RQ2 (Semantic)** | Successfully identified **15 distinct semantic clusters** (e.g., *fake, news, media* vs. *border, wall, immigration*), showing clear "us vs. them" dichotomies. |
-| **RQ3 (Classification)** | **Media Delegitimization** was most prevalent (28.5%), followed by **Immigration/External Threats** (14.4%). |
-| **RQ4 (Temporal)** | **Campaign periods** emphasized national identity (+114% vs. baseline). **COVID-19** triggered a conspiracy narrative spike (+132%). |
+
+ 
+### RQ1 (Frequency) :
+Top 3 words: *america* (4,523), *great* (3,891), *people* (3,654). Strong emphasis on national identity and "people" framing.  
+
+ 
+<img width="4363" height="2359" alt="wordcloud" src="https://github.com/user-attachments/assets/0874ceae-3033-4b83-bca0-83789b15379e" />
+
+---
+ ### RQ2 (Semantic) :
+ Successfully identified **15 distinct semantic clusters** (e.g., *fake, news, media* vs. *border, wall, immigration*), showing clear "us vs. them" dichotomies.   
+ 
+<img width="4390" height="3558" alt="word_clusters_tsne" src="https://github.com/user-attachments/assets/248e7756-d19c-432e-ae9a-2c9a0aedb395" />
+
+---
+ ### RQ3 (Classification) :
+ **Media Delegitimization** was most prevalent (28.5%), followed by **Immigration/External Threats** (14.4%). 
+
+<img width="5355" height="2355" alt="improved_topic_distribution" src="https://github.com/user-attachments/assets/0440abdb-d835-408e-bc1d-04ecabb2e2cb" />
+
+ ---
+ ### RQ4 (Temporal) :
+ **Campaign periods** emphasized national identity (+114% vs. baseline). **COVID-19** triggered a conspiracy narrative spike (+132%). 
+
+ ---
 
 #### Academic Contributions
 * Quantitative validation of populist communication theory.
