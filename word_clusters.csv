@@ -1,0 +1,301 @@
+cluster_id,word,frequency,rank_in_cluster,category
+0,think,1038,1,Media Delegitimization
+0,work,893,2,Media Delegitimization
+0,always,736,3,Media Delegitimization
+0,keep,678,4,Media Delegitimization
+0,business,553,5,Media Delegitimization
+0,every,501,6,Media Delegitimization
+0,success,403,7,Media Delegitimization
+0,life,370,8,Media Delegitimization
+0,important,365,9,Media Delegitimization
+0,find,247,10,Media Delegitimization
+0,future,246,11,Media Delegitimization
+0,entrepreneurs,245,12,Media Delegitimization
+0,successful,241,13,Media Delegitimization
+0,power,214,14,Media Delegitimization
+0,focus,204,15,Media Delegitimization
+0,part,194,16,Media Delegitimization
+0,makes,186,17,Media Delegitimization
+0,champion,185,18,Media Delegitimization
+0,problems,175,19,Media Delegitimization
+0,thinking,148,20,Media Delegitimization
+1,china,1017,1,External Threats / Immigration
+1,deal,872,2,External Threats / Immigration
+1,jobs,871,3,External Threats / Immigration
+1,money,670,4,External Threats / Immigration
+1,usa,606,5,External Threats / Immigration
+1,trade,505,6,External Threats / Immigration
+1,cont,446,7,External Threats / Immigration
+1,dollars,365,8,External Threats / Immigration
+1,massive,355,9,External Threats / Immigration
+1,mexico,341,10,External Threats / Immigration
+1,countries,334,11,External Threats / Immigration
+1,pay,301,12,External Threats / Immigration
+1,energy,292,13,External Threats / Immigration
+1,millions,250,14,External Threats / Immigration
+1,billion,239,15,External Threats / Immigration
+1,continue,236,16,External Threats / Immigration
+1,oil,213,17,External Threats / Immigration
+1,build,205,18,External Threats / Immigration
+1,small,201,19,External Threats / Immigration
+1,companies,199,20,External Threats / Immigration
+2,must,1121,1,Economic Populism
+2,border,845,2,Economic Populism
+2,military,648,3,Economic Populism
+2,stop,541,4,Economic Populism
+2,help,518,5,Economic Populism
+2,wall,503,6,Economic Populism
+2,crime,499,7,Economic Populism
+2,security,464,8,Economic Populism
+2,congress,426,9,Economic Populism
+2,law,417,10,Economic Populism
+2,bill,394,11,Economic Populism
+2,government,377,12,Economic Populism
+2,illegal,364,13,Economic Populism
+2,order,363,14,Economic Populism
+2,end,358,15,Economic Populism
+2,open,351,16,Economic Populism
+2,fast,331,17,Economic Populism
+2,immigration,319,18,Economic Populism
+2,federal,284,19,Economic Populism
+2,care,273,20,Economic Populism
+3,great,7084,1,Conspiracy Narratives
+3,job,1159,2,Conspiracy Narratives
+3,state,818,3,Conspiracy Narratives
+3,total,791,4,Conspiracy Narratives
+3,strong,652,5,Conspiracy Narratives
+3,congratulations,551,6,Conspiracy Narratives
+3,support,518,7,Conspiracy Narratives
+3,endorsement,432,8,Conspiracy Narratives
+3,complete,405,9,Conspiracy Narratives
+3,fantastic,400,10,Conspiracy Narratives
+3,guy,388,11,Conspiracy Narratives
+3,john,375,12,Conspiracy Narratives
+3,governor,371,13,Conspiracy Narratives
+3,running,362,14,Conspiracy Narratives
+3,tough,348,15,Conspiracy Narratives
+3,second,328,16,Conspiracy Narratives
+3,incredible,322,17,Conspiracy Narratives
+3,vets,312,18,Conspiracy Narratives
+3,amendment,304,19,Conspiracy Narratives
+3,tremendous,291,20,Conspiracy Narratives
+4,news,1514,1,National Identity
+4,fake,1148,2,National Identity
+4,totally,491,3,National Identity
+4,york,457,4,National Identity
+4,wow,451,5,National Identity
+4,debate,425,6,National Identity
+4,story,382,7,National Identity
+4,terrible,368,8,National Identity
+4,times,351,9,National Identity
+4,political,340,10,National Identity
+4,lost,337,11,National Identity
+4,sad,312,12,National Identity
+4,crazy,262,13,National Identity
+4,badly,253,14,National Identity
+4,failing,247,15,National Identity
+4,bush,244,16,National Identity
+4,failed,240,17,National Identity
+4,worst,238,18,National Identity
+4,worse,236,19,National Identity
+4,went,224,20,National Identity
+5,thank,3285,1,Law & Order
+5,forward,548,2,Law & Order
+5,soon,532,3,Law & Order
+5,maga,470,4,Law & Order
+5,tomorrow,450,5,Law & Order
+5,makeamericagreatagain,448,6,Law & Order
+5,washington,411,7,Law & Order
+5,florida,364,8,Law & Order
+5,speech,344,9,Law & Order
+5,join,307,10,Law & Order
+5,carolina,304,11,Law & Order
+5,iowa,296,12,Law & Order
+5,pennsylvania,291,13,Law & Order
+5,dc,273,14,Law & Order
+5,ready,270,15,Law & Order
+5,crowd,266,16,Law & Order
+5,south,250,17,Law & Order
+5,rally,245,18,Law & Order
+5,ohio,229,19,Law & Order
+5,texas,228,20,Law & Order
+6,states,894,1,Under Attack / Victimization
+6,world,878,2,Under Attack / Victimization
+6,house,761,3,Under Attack / Victimization
+6,united,743,4,Under Attack / Victimization
+6,white,454,5,Under Attack / Victimization
+6,north,430,6,Under Attack / Victimization
+6,iran,364,7,Under Attack / Victimization
+6,yesterday,338,8,Under Attack / Victimization
+6,meeting,324,9,Under Attack / Victimization
+6,korea,263,10,Under Attack / Victimization
+6,leaders,260,11,Under Attack / Victimization
+6,isis,248,12,Under Attack / Victimization
+6,statement,191,13,Under Attack / Victimization
+6,decision,183,14,Under Attack / Victimization
+6,move,180,15,Under Attack / Victimization
+6,nations,178,16,Under Attack / Victimization
+6,iraq,176,17,Under Attack / Victimization
+6,foreign,172,18,Under Attack / Victimization
+6,syria,165,19,Under Attack / Victimization
+6,force,155,20,Under Attack / Victimization
+7,trump,5275,1,Legitimacy Questioning
+7,president,3098,2,Legitimacy Questioning
+7,thanks,2083,3,Legitimacy Questioning
+7,america,1883,4,Legitimacy Questioning
+7,donald,1805,5,Legitimacy Questioning
+7,good,1711,6,Legitimacy Questioning
+7,run,1212,7,Legitimacy Questioning
+7,best,1148,8,Legitimacy Questioning
+7,love,1078,9,Legitimacy Questioning
+7,need,1076,10,Legitimacy Questioning
+7,really,1028,11,Legitimacy Questioning
+7,true,943,12,Legitimacy Questioning
+7,day,867,13,Legitimacy Questioning
+7,im,748,14,Legitimacy Questioning
+7,mr,644,15,Legitimacy Questioning
+7,man,604,16,Legitimacy Questioning
+7,please,603,17,Legitimacy Questioning
+7,amazing,601,18,Legitimacy Questioning
+7,nice,572,19,Legitimacy Questioning
+7,happy,538,20,Legitimacy Questioning
+8,vote,1467,1,Polarization Techniques
+8,democrats,1236,2,Polarization Techniques
+8,win,1047,3,Polarization Techniques
+8,election,935,4,Polarization Techniques
+8,republican,665,5,Polarization Techniques
+8,republicans,563,6,Polarization Techniques
+8,biden,521,7,Polarization Techniques
+8,party,520,8,Polarization Techniques
+8,poll,519,9,Polarization Techniques
+8,dems,492,10,Polarization Techniques
+8,democrat,443,11,Polarization Techniques
+8,presidential,363,12,Polarization Techniques
+8,senate,342,13,Polarization Techniques
+8,radical,317,14,Polarization Techniques
+8,polls,314,15,Polarization Techniques
+8,court,309,16,Polarization Techniques
+8,impeachment,287,17,Polarization Techniques
+8,votes,264,18,Polarization Techniques
+8,gop,253,19,Polarization Techniques
+8,candidate,247,20,Polarization Techniques
+9,hillary,865,1,Charismatic Leadership
+9,campaign,571,2,Charismatic Leadership
+9,clinton,531,3,Charismatic Leadership
+9,russia,445,4,Charismatic Leadership
+9,crooked,435,5,Charismatic Leadership
+9,report,354,6,Charismatic Leadership
+9,witch,347,7,Charismatic Leadership
+9,hunt,340,8,Charismatic Leadership
+9,corrupt,325,9,Charismatic Leadership
+9,fbi,307,10,Charismatic Leadership
+9,collusion,292,11,Charismatic Leadership
+9,justice,267,12,Charismatic Leadership
+9,mueller,245,13,Charismatic Leadership
+9,hoax,244,14,Charismatic Leadership
+9,paid,195,15,Charismatic Leadership
+9,public,190,16,Charismatic Leadership
+9,released,168,17,Charismatic Leadership
+9,lies,164,18,Charismatic Leadership
+9,information,163,19,Charismatic Leadership
+9,comey,163,20,Charismatic Leadership
+10,american,1007,1,Anti-Intellectualism
+10,honor,443,2,Anti-Intellectualism
+10,family,344,3,Anti-Intellectualism
+10,proud,311,4,Anti-Intellectualism
+10,home,282,5,Anti-Intellectualism
+10,nation,275,6,Anti-Intellectualism
+10,women,257,7,Anti-Intellectualism
+10,friends,251,8,Anti-Intellectualism
+10,attack,241,9,Anti-Intellectualism
+10,god,233,10,Anti-Intellectualism
+10,stand,227,11,Anti-Intellectualism
+10,war,208,12,Anti-Intellectualism
+10,lives,197,13,Anti-Intellectualism
+10,enforcement,195,14,Anti-Intellectualism
+10,police,192,15,Anti-Intellectualism
+10,service,189,16,Anti-Intellectualism
+10,men,177,17,Anti-Intellectualism
+10,families,173,18,Anti-Intellectualism
+10,veterans,152,19,Anti-Intellectualism
+10,killed,149,20,Anti-Intellectualism
+11,via,908,1,Moral Superiority
+11,national,637,2,Moral Superiority
+11,golf,497,3,Moral Superiority
+11,course,444,4,Moral Superiority
+11,beautiful,422,5,Moral Superiority
+11,top,302,6,Moral Superiority
+11,hotel,272,7,Moral Superiority
+11,city,238,8,Moral Superiority
+11,tower,237,9,Moral Superiority
+11,building,235,10,Moral Superiority
+11,scotland,212,11,Moral Superiority
+11,chicago,198,12,Moral Superiority
+11,star,172,13,Moral Superiority
+11,nyc,170,14,Moral Superiority
+11,doral,163,15,Moral Superiority
+11,club,154,16,Moral Superiority
+11,international,142,17,Moral Superiority
+11,played,117,18,Moral Superiority
+11,blue,101,19,Moral Superiority
+11,brand,96,20,Moral Superiority
+12,people,3001,1,Crisis Exaggeration
+12,country,2083,2,Crisis Exaggeration
+12,big,1945,3,Crisis Exaggeration
+12,make,1682,4,Crisis Exaggeration
+12,time,1673,5,Crisis Exaggeration
+12,never,1663,6,Crisis Exaggeration
+12,dont,1576,7,Crisis Exaggeration
+12,obama,1486,8,Crisis Exaggeration
+12,back,1308,9,Crisis Exaggeration
+12,want,1241,10,Crisis Exaggeration
+12,go,1036,11,Crisis Exaggeration
+12,way,1009,12,Crisis Exaggeration
+12,bad,969,13,Crisis Exaggeration
+12,done,957,14,Crisis Exaggeration
+12,know,942,15,Crisis Exaggeration
+12,media,901,16,Crisis Exaggeration
+12,cant,870,17,Crisis Exaggeration
+12,nothing,858,18,Crisis Exaggeration
+12,first,842,19,Crisis Exaggeration
+12,right,800,20,Crisis Exaggeration
+13,years,1090,1,Friend-Enemy Logic
+13,ever,907,2,Friend-Enemy Logic
+13,year,635,3,Friend-Enemy Logic
+13,history,598,4,Friend-Enemy Logic
+13,record,547,5,Friend-Enemy Logic
+13,economy,531,6,Friend-Enemy Logic
+13,obamacare,480,7,Friend-Enemy Logic
+13,tax,452,8,Friend-Enemy Logic
+13,numbers,416,9,Friend-Enemy Logic
+13,office,402,10,Friend-Enemy Logic
+13,americans,393,11,Friend-Enemy Logic
+13,high,386,12,Friend-Enemy Logic
+13,administration,346,13,Friend-Enemy Logic
+13,since,342,14,Friend-Enemy Logic
+13,million,333,15,Friend-Enemy Logic
+13,taxes,321,16,Friend-Enemy Logic
+13,greatest,316,17,Friend-Enemy Logic
+13,disaster,294,18,Friend-Enemy Logic
+13,biggest,247,19,Friend-Enemy Logic
+13,low,245,20,Friend-Enemy Logic
+14,last,951,1,Sole Representation
+14,show,846,2,Sole Representation
+14,tonight,777,3,Sole Representation
+14,watch,740,4,Sole Representation
+14,night,725,5,Sole Representation
+14,interview,567,6,Sole Representation
+14,next,529,7,Sole Representation
+14,apprentice,462,8,Sole Representation
+14,pm,436,9,Sole Representation
+14,enjoy,412,10,Sole Representation
+14,morning,380,11,Sole Representation
+14,ratings,373,12,Sole Representation
+14,live,357,13,Sole Representation
+14,wait,315,14,Sole Representation
+14,week,303,15,Sole Representation
+14,celebapprentice,297,16,Sole Representation
+14,season,270,17,Sole Representation
+14,celebrity,265,18,Sole Representation
+14,miss,264,19,Sole Representation
+14,fox,259,20,Sole Representation
