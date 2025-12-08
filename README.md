@@ -91,6 +91,11 @@ The data cleaning pipeline was the most time-intensive component.
 * **Clustering (HDBSCAN):** Min cluster size 50, Min samples 10.
 * **Topic Representation:** c-TF-IDF (N-gram range: 1-3).
 
+#### Initial Results:
+* ** Discovered topics:** 14
+* ** Outliers:** 16,327 tweets (36.4%)
+* ** Average confidence:** 0.73
+
 #### Critical Challenge: Excessive Outlier Rate
 * **Problem:** Initial outlier rate was 36.4%.
 * **Solution:** Applied HDBSCAN parameter tuning and **Distribution-based outlier reduction**.
@@ -98,12 +103,13 @@ The data cleaning pipeline was the most time-intensive component.
 
 ---
 
-### 9. 📈 Results & Academic Contributions
+### 5. 📈 Results & Academic Contributions
 
 #### Key Findings
 | Research Question | Key Finding |
 | :--- | :--- |
 | **RQ1 (Frequency)** | Top 3 words: *america* (4,523), *great* (3,891), *people* (3,654). Strong emphasis on national identity and "people" framing. |
+| **RQ2 (Semantic)** | Successfully identified **15 distinct semantic clusters** (e.g., *fake, news, media* vs. *border, wall, immigration*), showing clear "us vs. them" dichotomies. |
 | **RQ3 (Classification)** | **Media Delegitimization** was most prevalent (28.5%), followed by **Immigration/External Threats** (14.4%). |
 | **RQ4 (Temporal)** | **Campaign periods** emphasized national identity (+114% vs. baseline). **COVID-19** triggered a conspiracy narrative spike (+132%). |
 
@@ -113,8 +119,40 @@ The data cleaning pipeline was the most time-intensive component.
 * Replicable methodology for social media discourse analysis.
 
 ---
+### 6. Technical Stack
 
-### 10. ⚠️ Limitations and Future Work
+**Programming Language:**
+* Python 3.8+
+
+**Core Libraries:**
+* pandas 2.0.3 - Data manipulation
+* numpy 1.24.3 - Numerical computing
+* scikit-learn 1.3.0 - Machine learning utilities
+
+**NLP & Embeddings:**
+* nltk 3.8.1 - Text preprocessing
+* gensim 4.3.1 - Word2Vec implementation
+* sentence-transformers 2.2.2 - BERT embeddings
+
+**Topic Modeling:**
+* bertopic 0.15.0 - Main topic modeling framework
+* umap-learn 0.5.3 - Dimensionality reduction
+* hdbscan 0.8.33 - Density-based clustering
+
+**Visualization:**
+* matplotlib 3.7.2 - Static plots
+* seaborn 0.12.2 - Statistical visualization
+* wordcloud 1.9.2 - Word cloud generation
+* plotly 5.16.1 - Interactive plots
+
+**Development Environment:**
+* Jupyter Notebook / Google Colab
+* Git version control
+* GitHub repository hosting
+
+---
+
+### 7. ⚠️ Limitations and Future Work
 
 #### Current Limitations
 * **Retweet Exclusion:** Removed 22% of data, potentially missing amplification patterns.
@@ -139,7 +177,7 @@ The data cleaning pipeline was the most time-intensive component.
 
 ---
 
-### 11. 📚 References
+### 8. 📚 References
 
 The full list of academic, technical, and data sources used in this project is available below:
 
